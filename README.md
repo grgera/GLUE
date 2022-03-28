@@ -1,6 +1,6 @@
 # Text classification on GLUE.
 
-Repository contains my research research on training different classifiers to achieve the best metrics on `GLUE` datasets.
+Repository contains my research on training different classifiers to achieve the best metrics on `GLUE` datasets.
 
 # Implemented tasks
 - ## SST-2
